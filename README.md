@@ -1,6 +1,6 @@
 # salon3
 
-## 3. `border-image`
+## 1. `border-image`
 
 C'est un raccourci qui regroupe un ensemble de propriétés: 
 - border-image-source: url(images/nomdufichier.jpg);
