@@ -1,8 +1,16 @@
 # salon3
 
+## 3. `border-image`
+
+C'est un raccourci qui regroupe un ensemble de propriétés: 
+- border-image-source: url(images/nomdufichier.jpg);
+- border-image-slice: divison de l'image en 9 parties;
+- border-image-width: largeur de l'image;
+- border-image-outset: où se place sur la bordure;
+- border-image-repeat: valeurs = repeat round space stretch
 
 
-## 1. Text-Overflow
+## 2. Text-Overflow
 
 
 Text-overflow est une propriété CSS qui permet de configurer l’affichage de la partie d’un texte qui dépasse de son contenant,  càd de la boîte dans laquelle il est inclus.
@@ -26,7 +34,7 @@ Place au concret : en cliquant sur le [lien](https://www.cepegra-labs.be/webdesi
 
 
 
-## 2. `<meter` & `<progress>`
+## 3. `<meter` & `<progress>`
 
 **Définition** : l'élément HTML `<meter>` permet de créer un rendu visuel à partir de données chiffrées, et ce sous forme d'une barre de progression.
 
@@ -91,13 +99,6 @@ Place au concret : en cliquant sur le [lien](https://www.cepegra-labs.be/webdesi
 
    L'élément HTML `<progress>` est compatible avec tous les navigateurs web existants.
 
-## 3. `border-image`
 
-C'est un raccourci qui regroupe un ensemble de propriétés: 
-- border-image-source: url(images/nomdufichier.jpg);
-- border-image-slice: divison de l'image en 9 parties;
-- border-image-width: largeur de l'image;
-- border-image-outset: où se place sur la bordure;
-- border-image-repeat: valeurs = repeat round space stretch
 
 
